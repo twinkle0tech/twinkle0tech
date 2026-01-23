@@ -52,6 +52,7 @@
 </div>
 
 
-## 📊 GitHub Stats
-![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=twinkle0tech&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twinkle0tech&layout=compact&theme=tokyonight)
 
