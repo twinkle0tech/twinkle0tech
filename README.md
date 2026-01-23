@@ -52,8 +52,22 @@
 </div>
 
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=twinkle0tech&theme=tokyonight)
+## 🌐 Connect With Me
+
+<div align="left">
+  <a href="https://www.instagram.com/___twinkle8250.___/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+  </a>
+
+  <a href="https://discord.com/users/your_id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/muskan-tamang-04bbb1328/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+</div>
+
 
 
 
