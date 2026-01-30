@@ -39,10 +39,10 @@ Aspiring Software Developer | Python, Data Analysis & Web Development
 
 ### 🚀 Featured Projects
 
-- 🔹 Blinkit Exploratory Data Analysis – Data analysis on real business dataset  
-- 🔹 India Healthcare Dashboard – Python based data visualization project  
-- 🔹 IBM Chatbot – Web based chatbot project  
-- 🔹 100 Days of Python – Daily Python practice and mini projects
+🔹 Blinkit Exploratory Data Analysis – Data analysis on real business dataset  
+🔹 India Healthcare Dashboard – Python based data visualization project  
+🔹 IBM Chatbot – Web based chatbot project  
+🔹 100 Days of Python – Daily Python practice and mini projects
 
 
 
