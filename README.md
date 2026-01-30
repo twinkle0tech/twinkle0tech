@@ -37,9 +37,13 @@ Aspiring Software Developer | Python, Data Analysis & Web Development
 </div>
 
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=twinkle0tech&show_icons=true&theme=default" />
+- 🔹 Blinkit Exploratory Data Analysis – Data analysis on real business dataset  
+- 🔹 India Healthcare Dashboard – Python based data visualization project  
+- 🔹 IBM Chatbot – Web based chatbot project  
+- 🔹 100 Days of Python – Daily Python practice and mini projects
+
 
 
 ###
