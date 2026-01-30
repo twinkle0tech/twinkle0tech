@@ -37,6 +37,11 @@ Aspiring Software Developer | Python, Data Analysis & Web Development
 </div>
 
 
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=twinkle0tech&show_icons=true&theme=default" />
+
+
 ###
 
 <div align="left">
