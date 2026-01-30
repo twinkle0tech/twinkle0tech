@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Muskan and I'm a Student, from Assam Downtown University</h2>
+<h2 align="left">Hi 👋, I'm Muskan</h2>
+<p align="left">
+Aspiring Software Developer | Python, Data Analysis & Web Development
+</p>
+
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
