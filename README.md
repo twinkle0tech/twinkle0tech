@@ -1,68 +1,114 @@
-<h2 align="left">Hi 👋, I'm Muskan</h2>
-<p align="left">
-Aspiring Software Developer | Python, Data Analysis & Web Development
-</p>
+<h2 align="center">Hi 👋, I'm Muskan</h2>
+<h3 align="center">Aspiring Software Developer | Python, Data Analysis & Web Development</h3>
 
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-
-  <!-- Three.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo" />
-  <img width="12" />
-
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-  <img width="12" />
-
-  <!-- React Native -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react native logo" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Data+Analysis+Enthusiast;Web+Development+Learner;Python+Programmer" alt="Typing SVG" />
 </div>
 
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif" alt="coding girl" />
+
+### 🌟 About Me
+
+- 🔭 I'm currently working on **Data Analysis projects and Web Development**
+- 🌱 I'm currently learning **Advanced Python, Data Visualization, and Full Stack Development**
+- 👯 I'm looking to collaborate on **Python and Web Development projects**
+- 💬 Ask me about **Python, Data Analysis, HTML/CSS, JavaScript**
+- 📫 How to reach me: **muskan.tamang@email.com**
+- ⚡ Fun fact: **I love turning data into meaningful insights!**
+
+---
+
+### 🛠️ Languages and Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+</div>
+
+---
 
 ### 🚀 Featured Projects
 
-🔹 Blinkit Exploratory Data Analysis – Data analysis on real business dataset  
-🔹 India Healthcare Dashboard – Python based data visualization project  
-🔹 IBM Chatbot – Web based chatbot project  
-🔹 100 Days of Python – Daily Python practice and mini projects
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🔹 **Blinkit Exploratory Data Analysis** | Data analysis on real business dataset to derive insights | Python, Pandas, Matplotlib, Seaborn |
+| 🔹 **India Healthcare Dashboard** | Python-based data visualization project for healthcare metrics | Python, Plotly, Dash |
+| 🔹 **IBM Chatbot** | Web-based chatbot project with interactive UI | HTML, CSS, JavaScript |
+| 🔹 **100 Days of Python** | Daily Python practice and mini projects repository | Python |
 
+---
 
+### 📊 GitHub Stats
 
-###
-
-<div align="left">
-
-  <a href="https://www.instagram.com/___twinkle8250.___/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/muskan-tamang-04bbb1328/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muskan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
+---
 
+### 📈 Activity Graph
 
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=muskan&theme=react-dark" alt="GitHub Activity Graph" />
+</div>
 
+---
 
+### 🤝 Connect with Me
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/muskan-tamang-04bbb1328/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/___twinkle8250.___/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="mailto:muskan.tamang@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://github.com/muskan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</div>
+
+---
+
+### 🎵 Currently Vibing To
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=muskan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/muskan?label=Followers&style=social" alt="GitHub followers" />
+</div>
+
+<div align="center">
+  <h4>⭐️ From Muskan ⭐️</h4>
+  <h4>Thanks for visiting my profile! Let's connect and collaborate 🚀</h4>
+</div>
