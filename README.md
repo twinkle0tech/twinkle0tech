@@ -9,16 +9,16 @@
 
 ### 🌟 About Me
 
-- 🔭 I'm currently working on **Data Analysis projects and Web Development**
-- 🌱 I'm currently learning **Advanced Python, Data Visualization, and Full Stack Development**
-- 👯 I'm looking to collaborate on **Python and Web Development projects**
-- 💬 Ask me about **Python, Data Analysis, HTML/CSS, JavaScript**
-- 📫 How to reach me: **muskan.tamang@email.com**
-- ⚡ Fun fact: **I love turning data into meaningful insights!**
+- I'm currently working on **Data Analysis projects and Web Development**
+- I'm currently learning **Advanced Python, Data Visualization, and Full Stack Development**
+- I'm looking to collaborate on **Python and Web Development projects**
+- Ask me about **Python, Data Analysis, HTML/CSS, JavaScript**
+- How to reach me: **muskan.tamang@email.com**
+- Fun fact: **I love turning data into meaningful insights!**
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -55,28 +55,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ---
 
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=muskan&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
-
----
-
-### 🤝 Connect with Me
+###  Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/muskan-tamang-04bbb1328/" target="_blank">
@@ -85,7 +67,7 @@
   <a href="https://www.instagram.com/___twinkle8250.___/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
-  <a href="mailto:muskan.tamang@email.com">
+  <a href="mailto:muskantamang925@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://github.com/muskan">
@@ -95,20 +77,4 @@
 
 ---
 
-### 🎵 Currently Vibing To
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muskan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/muskan?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
-<div align="center">
-  <h4>⭐️ From Muskan ⭐️</h4>
-  <h4>Thanks for visiting my profile! Let's connect and collaborate 🚀</h4>
-</div>
