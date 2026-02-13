@@ -103,7 +103,7 @@
 
 If you want a custom ocean animation background, you can embed this CSS animation:
 
-```html
+html
 <div style="background: linear-gradient(45deg, #00b4d8, #0077b6, #023e8a, #00b4d8); background-size: 400% 400%; animation: oceanWave 15s ease infinite; padding: 20px; border-radius: 15px; margin: 10px 0;">
   
   <!-- Your content here -->
