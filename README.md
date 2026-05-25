@@ -11,6 +11,8 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=120&section=footer"/>
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif" alt="coding girl" />
+
 
 ### 🌿 About Me
 
